@@ -35,12 +35,13 @@ The implementation demonstrates proper use of margins, padding, borders, and con
 ---
 
 ## 📂 Repository Structure
+<pre>
 semantic-html-profile-css/
 │
 ├── index.html
 ├── style.css
 └── README.md
-
+</pre>
 ---
 
 ## ✅ Features
