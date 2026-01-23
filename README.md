@@ -52,15 +52,6 @@ semantic-html-profile-css/
 
 ---
 
-## 📖 What I Learned
-- How the CSS box model affects layout structure
-- Practical differences between margin and padding
-- Importance of avoiding inline CSS
-- How cascading and global styles work
-- Using browser DevTools to inspect and debug CSS
-
----
-
 ## 🚀 Future Improvements
 - Make the layout responsive using Flexbox
 - Add multiple pages with consistent navigation
@@ -69,7 +60,7 @@ semantic-html-profile-css/
 ---
 
 ## 👤 Author
-**Ali Sk**  
+**Shaikh Ali**  
 Frontend Development Learner  
 
 ---
