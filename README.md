@@ -1,14 +1,13 @@
-# semantic-html-profile-css
 # Semantic HTML Profile – CSS Styling
 
-## 📌 Overview
+## Overview
 A semantic HTML profile page styled using CSS with a focus on applying **CSS box model concepts** to achieve a clean, well-structured, and visually appealing layout.
 
 The implementation demonstrates proper use of margins, padding, borders, and content spacing while following best practices such as class-based styling and separation of concerns.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Style an existing semantic HTML profile page
 - Apply CSS box model concepts effectively
 - Improve visual hierarchy and readability
@@ -17,7 +16,7 @@ The implementation demonstrates proper use of margins, padding, borders, and con
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** (Semantic elements)
 - **CSS3**
 - **VS Code**
@@ -25,7 +24,7 @@ The implementation demonstrates proper use of margins, padding, borders, and con
 
 ---
 
-## 📦 Concepts Covered
+## Concepts Covered
 - CSS Box Model (margin, padding, border, content)
 - Global and cascading styles
 - Class-based styling
@@ -34,7 +33,7 @@ The implementation demonstrates proper use of margins, padding, borders, and con
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 <pre>
 semantic-html-profile-css/
 │
@@ -44,7 +43,7 @@ semantic-html-profile-css/
 </pre>
 ---
 
-## ✅ Features
+## Features
 - Clean and structured layout
 - Proper spacing using CSS box model
 - Reusable and scalable CSS classes
@@ -53,19 +52,15 @@ semantic-html-profile-css/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Make the layout responsive using Flexbox
 - Add multiple pages with consistent navigation
 - Enhance the UI with transitions and animations
 
 ---
 
-## 👤 Author
+## Author
 **Shaikh Ali**  
 Frontend Development Learner  
 
 ---
-
-## 📌 Task Reference
-Part of a **Web Development Internship – Task 2: Style the Profile Page Using CSS Box Model**.
-
